@@ -73,3 +73,8 @@
 [√] Frame: 73, Episode OP https://facebook.com/709492615348387
 [√] Frame: 74, Episode OP https://facebook.com/709495395348109
 [√] Frame: 75, Episode OP https://facebook.com/709497818681200
+[√] Frame: 76, Episode OP https://facebook.com/709602948670687
+[√] Frame: 77, Episode OP https://facebook.com/709606342003681
+[√] Frame: 78, Episode OP https://facebook.com/709609288670053
+[√] Frame: 79, Episode OP https://facebook.com/709612345336414
+[√] Frame: 80, Episode OP https://facebook.com/709615462002769
