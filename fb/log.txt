@@ -109,3 +109,6 @@
 [√] Frame: 109, Episode OP https://facebook.com/710176855279963
 [√] Frame: 110, Episode OP https://facebook.com/710180325279616
 [√] Frame: 111, Episode OP https://facebook.com/710185715279077
+[√] Frame: 112, Episode OP https://facebook.com/710213415276307
+[√] Frame: 113, Episode OP https://facebook.com/710216775275971
+[√] Frame: 114, Episode OP https://facebook.com/710220378608944
