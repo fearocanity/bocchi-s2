@@ -249,3 +249,5 @@
 [√] Frame: 249, Episode OP https://facebook.com/712425145055134
 [√] Frame: 250, Episode OP https://facebook.com/712457368385245
 [√] Frame: 251, Episode OP https://facebook.com/712460765051572
+[√] Frame: 252, Episode OP https://facebook.com/712492028381779
+[√] Frame: 253, Episode OP https://facebook.com/712495258381456
