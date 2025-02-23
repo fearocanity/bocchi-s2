@@ -301,3 +301,5 @@
 [√] Frame: 301, Episode OP https://facebook.com/713295088301473
 [√] Frame: 302, Episode OP https://facebook.com/713324168298565
 [√] Frame: 303, Episode OP https://facebook.com/713327274964921
+[√] Frame: 304, Episode OP https://facebook.com/713353764962272
+[√] Frame: 305, Episode OP https://facebook.com/713356711628644
